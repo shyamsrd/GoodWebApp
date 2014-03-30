@@ -1,0 +1,5 @@
+1)Create a project structure
+2)decide on framework/tools/architecture styles
+3)Documentation Stratergy
+4)Planning and/or minutes
+3)create a POM.xml 
